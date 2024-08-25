@@ -2,6 +2,7 @@
 #include "m_controller.h"
 
 #include <switch.h>
+#include <string.h>
 
 PadState pad;
 u32 target_device = -1;

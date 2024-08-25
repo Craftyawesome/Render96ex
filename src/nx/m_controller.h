@@ -4,7 +4,6 @@
 #ifndef AVOID_UTYPES
 typedef float  f32;
 typedef double f64;
-typedef char bool;
 #endif
 
 enum ControllerType {

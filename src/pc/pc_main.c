@@ -41,6 +41,7 @@
 
 #ifdef TARGET_SWITCH
 #include "nx/m_nx.h"
+#include "nx/m_controller.h"
 #endif
 
 #include "text/text-loader.h"
